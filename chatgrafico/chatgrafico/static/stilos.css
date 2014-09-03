@@ -1,0 +1,16 @@
+body{
+	font-family:Verdana;
+	font-size:12px;
+}
+ul{
+	width:500px;
+}
+ul li{
+	display:inline-block;
+	vertical-align:top;
+	padding:5px;
+	background-color:#000;
+	color:#fff;
+	margin-left:5px;
+	border-radius:5px;
+}
